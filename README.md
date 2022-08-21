@@ -1,16 +1,16 @@
 <b>Facebook-X: A powerful Facebook hacking tool for windows</b>
-<i>Author: F1R3F0X</i>
+<p>Author: F1R3F0X</p>
 
 <h3> How to install and use? </h3>
-<li>
-<ul> Download file or clone this repository </ul>
+<ul>
+<li> Download file or clone this repository </li>
 
 <ul> Unzip file </ul>
 
-<ul> right click hack.bat and run as administrator</ul>
+<li>right click hack.bat and run as administrator</li>
 
 
-<ul> Enter account link </ul>
+<ul> Enter account link </li>
 </li>
 
 <P>For educational purposes only</P>
