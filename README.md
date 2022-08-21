@@ -5,12 +5,12 @@
 <ul>
 <li> Download file or clone this repository </li>
 
-<ul> Unzip file </ul>
+<li> Unzip file </li>
 
 <li>right click hack.bat and run as administrator</li>
 
 
-<ul> Enter account link </li>
-</li>
+<li> Enter account link </li>
+</ul>
 
 <P>For educational purposes only</P>
